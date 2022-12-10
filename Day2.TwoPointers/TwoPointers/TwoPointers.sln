@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaresOfASortedArray", "SquaresOfASortedArray\SquaresOfASortedArray.csproj", "{3CE957B3-1E6F-4EA4-9740-4F6EDB429C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{31B65549-AB18-4E55-B450-907DA48E1971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateArray", "RotateArray\RotateArray.csproj", "{31B65549-AB18-4E55-B450-907DA48E1971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{B03EA682-52F3-438F-83B3-19D0FEA9E86F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{31B65549-AB18-4E55-B450-907DA48E1971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31B65549-AB18-4E55-B450-907DA48E1971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31B65549-AB18-4E55-B450-907DA48E1971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03EA682-52F3-438F-83B3-19D0FEA9E86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03EA682-52F3-438F-83B3-19D0FEA9E86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03EA682-52F3-438F-83B3-19D0FEA9E86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03EA682-52F3-438F-83B3-19D0FEA9E86F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
